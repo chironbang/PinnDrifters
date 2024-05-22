@@ -10,4 +10,4 @@ We have applied the method designed by Chen et al. in their paper:
 
 Chen, Z., Liu, Y. & Sun, H. Physics-informed learning of governing equations from scarce data. *Nat Commun* 12, 6136 (2021). [https://doi.org/10.1038/s41467-021-26434-1](https://doi.org/10.1038/s41467-021-26434-1).
 
-The code is heavily inspired by theirs with a some modifications.
+The code is heavily inspired by theirs with some modifications.
