@@ -1,6 +1,8 @@
 # PinnDrifters
 
-This repository contains the code used for the experiments in the paper.
+This repository contains the code used for the experiments in the paper:
+
+Chiron Bang, Ali Salem Altaher, Hanqi Zhuang, et al. Physics-Informed Neural Networks to Reconstruct Surface Velocity Field from Drifter Data. ESS Open Archive . May 13, 2024.
 
 To install all the required packages, please follow the guide [here](https://github.com/isds-neu/EQDiscovery).
 
