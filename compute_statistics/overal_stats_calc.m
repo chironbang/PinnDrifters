@@ -8,11 +8,8 @@ load(data_file);
 
 % load(data_file);
 
-% pred_u = idw_u(:, :, 1:30);
-% pred_v = idw_v(:, :, 1:30);
-
-exact_u = exact_u(:, :, 1:30);
-exact_v = exact_v(:, :, 1:30);
+% pred_u = idw_u;
+% pred_v = idw_v;
 
 n_frames = size(exact_u, 3);
 
