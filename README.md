@@ -2,7 +2,7 @@
 
 This repository contains the code used for the experiments in the paper:
 
-Chiron Bang, Ali Salem Altaher, Hanqi Zhuang, et al. Physics-Informed Neural Networks to Reconstruct Surface Velocity Field from Drifter Data. ESS Open Archive . May 13, 2024.
+Bang C, Altaher AS, Zhuang H, Altaher A, Srinivasan A and Chérubin LM (2025) Physics-informed neural networks to reconstruct surface velocity field from drifter data. Front. Mar. Sci. 12:1547995. [doi: 10.3389/fmars.2025.1547995](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1547995)
 
 To install all the required packages, please follow the guide [here](https://github.com/isds-neu/EQDiscovery).
 
